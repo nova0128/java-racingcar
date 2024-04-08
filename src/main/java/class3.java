@@ -33,8 +33,6 @@ public class class3 {
             }
             System.out.println();
             if (i == n) {
-                //이 부분에서 "-"수가 최대인 자동차의 이름을 출력해줘.
-                // 최대인 자동차의 수는 여러대가 될 수 있어.
             }
         }
 
